@@ -1,0 +1,16 @@
+{
+    "description": "Github Ubports webapp",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "github": {
+            "apparmor": "github.apparmor",
+            "desktop": "github.desktop",
+            "urls": "github.url-dispatcher"
+        }
+    },
+    "installed-size": "51",
+    "maintainer": "Evan <bad.giiba@gmail.com>",
+    "name": "github.giiba",
+    "title": "Github",
+    "version": "1.2"
+}

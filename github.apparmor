@@ -1,0 +1,9 @@
+{
+    "template": "ubuntu-webapp",
+    "policy_groups": [
+        "content_exchange",
+        "networking",
+        "webview"
+    ],
+    "policy_version": 1.3
+}

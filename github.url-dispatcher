@@ -1,0 +1,10 @@
+[
+    {
+        "protocol": "http",
+        "domain-suffix": "github.com"
+    },
+    {
+        "protocol": "https",
+        "domain-suffix": "github.com"
+    }
+]

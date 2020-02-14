@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Github
+Comment= Github Ubports webapp
+Type=Application
+Icon=github.png
+Exec=webapp-container --store-session-cookies --enable-back-forward --user-agent-string="Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" --webappUrlPatterns=https?://github*.com/* https://github.com/ubports
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#262625
