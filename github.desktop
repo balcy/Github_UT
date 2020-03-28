@@ -3,7 +3,7 @@ Name=Github
 Comment= Github Ubports webapp
 Type=Application
 Icon=github.png
-Exec=webapp-container --store-session-cookies --enable-back-forward --webappUrlPatterns=https?://github*.com/* https://github.com/ubports
+Exec=webapp-container --store-session-cookies --enable-back-forward --webappUrlPatterns=https?://github.com/* https://github.com/ubports %u
 Terminal=false
 X-Ubuntu-Touch=true
 X-Ubuntu-Splash-Color=#262625
